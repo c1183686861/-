@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 5063035 */
+  src: url('iconfont.woff2?t=1762861000058') format('woff2'),
+       url('iconfont.woff?t=1762861000058') format('woff'),
+       url('iconfont.ttf?t=1762861000058') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-briefcase1196053easyiconnet:before {
+  content: "\e629";
+}
+
+.icon-institution:before {
+  content: "\e74b";
+}
+
+.icon-phone:before {
+  content: "\e7b7";
+}
+
+.icon-credit-card:before {
+  content: "\e600";
+}
+
+.icon-code:before {
+  content: "\e7fc";
+}
+
+.icon-image-fill:before {
+  content: "\e860";
+}
+
+.icon-user:before {
+  content: "\e627";
+}
+
+.icon-bell:before {
+  content: "\e8e3";
+}
+
+.icon-file-text:before {
+  content: "\e725";
+}
+

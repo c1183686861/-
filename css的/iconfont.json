@@ -1,0 +1,72 @@
+{
+  "id": "5063035",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "584735",
+      "name": "briefcase",
+      "font_class": "briefcase1196053easyiconnet",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "929492",
+      "name": "institution",
+      "font_class": "institution",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "929672",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "1199093",
+      "name": "credit-card",
+      "font_class": "credit-card",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4767091",
+      "name": "code",
+      "font_class": "code",
+      "unicode": "e7fc",
+      "unicode_decimal": 59388
+    },
+    {
+      "icon_id": "4936630",
+      "name": "image-fill",
+      "font_class": "image-fill",
+      "unicode": "e860",
+      "unicode_decimal": 59488
+    },
+    {
+      "icon_id": "10793071",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "15025371",
+      "name": "bell",
+      "font_class": "bell",
+      "unicode": "e8e3",
+      "unicode_decimal": 59619
+    },
+    {
+      "icon_id": "19418415",
+      "name": "file-text",
+      "font_class": "file-text",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    }
+  ]
+}
